@@ -1,0 +1,40 @@
+{
+  "id": "employee-onboarding-plan",
+  "name": "Employee onboarding plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Every new colleague starts with a first week and a first 90 days planned to the standard of your best manager: what to read, who to meet, what to practice and what productive means at day 30, 60 and 90.",
+  "directory": "https://fullypowered.ai/capabilities/employee-onboarding-plan/",
+  "primary_function": "functions/people-and-hr",
+  "functions": [
+    "functions/people-and-hr",
+    "functions/recruiting-and-hiring"
+  ],
+  "industries": [
+    "industries/logistics-and-trade",
+    "industries/manufacturing",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "manager-feedback-preparation",
+    "sop-exception-capture"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": []
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own working guides."
+    }
+  ]
+}

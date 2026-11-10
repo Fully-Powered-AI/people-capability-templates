@@ -1,0 +1,23 @@
+{
+  "repository": "Fully-Powered-AI/people-capabilities",
+  "title": "People and HR",
+  "term": "functions/people-and-hr",
+  "capabilities": [
+    {
+      "id": "employee-onboarding-plan",
+      "name": "Employee onboarding plan",
+      "version": "0.1.0",
+      "summary": "Every new colleague starts with a first week and a first 90 days planned to the standard of your best manager: what to read, who to meet, what to practice and what productive means at day 30, 60 and 90.",
+      "path": "employee-onboarding-plan/",
+      "directory": "https://fullypowered.ai/capabilities/employee-onboarding-plan/"
+    },
+    {
+      "id": "manager-feedback-preparation",
+      "name": "Manager feedback preparation",
+      "version": "0.1.0",
+      "summary": "Every manager walks into a feedback conversation prepared like your best one: specific dated observations, the questions worth asking, a clear ask and the support on offer.",
+      "path": "manager-feedback-preparation/",
+      "directory": "https://fullypowered.ai/capabilities/manager-feedback-preparation/"
+    }
+  ]
+}

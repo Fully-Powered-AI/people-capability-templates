@@ -1,0 +1,40 @@
+{
+  "id": "manager-feedback-preparation",
+  "name": "Manager feedback preparation",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Every manager walks into a feedback conversation prepared like your best one: specific dated observations, the questions worth asking, a clear ask and the support on offer.",
+  "directory": "https://fullypowered.ai/capabilities/manager-feedback-preparation/",
+  "primary_function": "functions/people-and-hr",
+  "functions": [
+    "functions/people-and-hr",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/logistics-and-trade",
+    "industries/professional-services",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "employee-onboarding-plan",
+    "sop-exception-capture"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": []
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own working guides."
+    }
+  ]
+}
