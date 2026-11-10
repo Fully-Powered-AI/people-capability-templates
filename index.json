@@ -4,6 +4,14 @@
   "term": "functions/people-and-hr",
   "capabilities": [
     {
+      "id": "culture-health-check",
+      "name": "Culture health check",
+      "version": "0.1.0",
+      "summary": "A founder or people lead sees whether the company's stated values show up in daily work: each value written as behaviours you could watch for, read against the team's own evidence, with where practice matches, where it drifts, and two or three rituals to try. Reported by team and theme, never about a person.",
+      "path": "culture-health-check/",
+      "directory": "https://fullypowered.ai/capabilities/culture-health-check/"
+    },
+    {
       "id": "departing-employee-knowledge-capture",
       "name": "Departing-employee knowledge capture",
       "version": "0.1.0",
@@ -26,6 +34,14 @@
       "summary": "Every new colleague starts with a first week and a first 90 days planned to the standard of your best manager: what to read, who to meet, what to practice and what productive means at day 30, 60 and 90.",
       "path": "employee-onboarding-plan/",
       "directory": "https://fullypowered.ai/capabilities/employee-onboarding-plan/"
+    },
+    {
+      "id": "headcount-plan",
+      "name": "Headcount plan",
+      "version": "0.1.0",
+      "summary": "For a founder, people lead or finance lead preparing next year: every role and its cost by team, the new roles and backfills with their months, the fully loaded cost month by month against the budget, and what changes if revenue lands lower or higher. It plans roles and money, never decisions about named people.",
+      "path": "headcount-plan/",
+      "directory": "https://fullypowered.ai/capabilities/headcount-plan/"
     },
     {
       "id": "internal-change-announcement",

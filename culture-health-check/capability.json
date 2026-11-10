@@ -1,0 +1,78 @@
+{
+  "id": "culture-health-check",
+  "name": "Culture health check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A founder or people lead sees whether the company's stated values show up in daily work: each value written as behaviours you could watch for, read against the team's own evidence, with where practice matches, where it drifts, and two or three rituals to try. Reported by team and theme, never about a person.",
+  "directory": "https://fullypowered.ai/capabilities/culture-health-check/",
+  "primary_function": "functions/people-and-hr",
+  "functions": [
+    "functions/people-and-hr",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/nonprofits",
+    "industries/professional-services",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "internal-change-announcement",
+    "manager-feedback-preparation",
+    "employee-onboarding-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared people work: every finding cited to a numbered piece of evidence, results reported by team and theme with small groups merged, no person named or judged, a stop when an export's headers do not match, and leadership deciding what changes, with nothing shared with staff by the assistant."
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "c-level-advisor/skills/culture-architect/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Reading culture from what is recognised and tolerated rather than what is stated; writing values as behaviours a newcomer could notice; the areas a culture survey covers; the anti-patterns of unpractised values, culture left to spread unaided and habits kept from a smaller company; the warning signs of survey results never shared with the team and standards applied unevenly; rituals chosen by company size.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "c-level-advisor/skills/culture-architect/references/culture-playbook.md",
+      "licence": "MIT",
+      "contribution": "Grounding each value in real examples and a counter-example; reporting the largest fall since the last survey first; checking what is recognised against the stated values; ritual ideas including an end-of-week round of what went right and what to do differently, a month-in conversation for new starters, a survey read-back, a rotating cross-team group and an open hour with the founders.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "c-level-advisor/skills/culture-architect/templates/culture-code-template.md",
+      "licence": "MIT",
+      "contribution": "Pairing each value with what it does not look like, and treating how decisions are actually made as one of the places culture shows.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    }
+  ]
+}

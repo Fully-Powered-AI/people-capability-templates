@@ -1,0 +1,59 @@
+{
+  "id": "headcount-plan",
+  "name": "Headcount plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For a founder, people lead or finance lead preparing next year: every role and its cost by team, the new roles and backfills with their months, the fully loaded cost month by month against the budget, and what changes if revenue lands lower or higher. It plans roles and money, never decisions about named people.",
+  "directory": "https://fullypowered.ai/capabilities/headcount-plan/",
+  "primary_function": "functions/people-and-hr",
+  "functions": [
+    "functions/people-and-hr",
+    "functions/finance-and-accounting",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/growth-and-scaling",
+    "situations/private-equity-and-portfolios"
+  ],
+  "related": [
+    "budget-versus-actual-variance-commentary",
+    "thirteen-week-cash-flow-forecast",
+    "job-description"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work and the role-level form of this one: the preparer's two lists as the only authority, stated column headers with a stop when one does not match, counts and totals by role and never names, a scenario mark on every change, every gap written as a question for the approver, no figure estimated, and nothing opened, offered, sent or changed until a person decides."
+    },
+    {
+      "kind": "third-party",
+      "repository": "CaseMark/skills",
+      "commit": "afe48c44914d753297766404378e871d1f88d7a8",
+      "path": "skills/finance/managing-headcount-planning/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Building the plan from today's roles plus dated changes; fully loaded cost with bonus, employer taxes and benefits; pay rises from a stated month; contractors apart from employees; departures and backfills; monthly projections in a central, a lower and a higher case; checks for backfill overlap, cases that hold together, new pay in line with the role and agreement with the accounts within a tolerance; revenue per person; and a list of open items for leadership.",
+      "text_reused": false,
+      "notice": "notices/CaseMark-skills-LICENSE.txt"
+    }
+  ]
+}
