@@ -1,0 +1,57 @@
+{
+  "id": "policy-answers-from-the-handbook",
+  "name": "Policy answers from the handbook",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Staff questions about leave, hours, expenses and conduct get answers that quote your own handbook, name the section, and say plainly where the handbook is silent. Anything about one person's own entitlement goes to HR, and no reply leaves until a person has read it.",
+  "directory": "https://fullypowered.ai/capabilities/policy-answers-from-the-handbook/",
+  "primary_function": "functions/people-and-hr",
+  "functions": [
+    "functions/people-and-hr",
+    "functions/executive-and-office-support"
+  ],
+  "industries": [
+    "industries/logistics-and-trade",
+    "industries/manufacturing",
+    "industries/hospitality",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "employee-onboarding-plan",
+    "manager-feedback-preparation",
+    "customer-reply-drafting"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The question export with stated headers, the five answer statuses, the employee-group check, the record of headings checked, the handling of conflicting documents, the rule that one person's entitlement goes to HR with no conclusion drawn, replies drafted for a person to send, and the list of gaps for the HR contact."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "human-resources/skills/policy-lookup",
+      "licence": "Apache-2.0",
+      "contribution": "Answering from handbook text the person pastes in; a short direct answer before the detail; the policy's exact wording quoted with a plain explanation; the exceptions the policy states; the document and section cited; no answer invented when no policy is found; a named contact for cases the text does not settle; legal and compliance questions sent to HR.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    }
+  ]
+}

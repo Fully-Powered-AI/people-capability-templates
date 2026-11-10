@@ -4,6 +4,14 @@
   "term": "functions/people-and-hr",
   "capabilities": [
     {
+      "id": "employee-offboarding-and-handover-checklist",
+      "name": "Employee offboarding and handover checklist",
+      "version": "0.1.0",
+      "summary": "When someone leaves, your HR lead and their manager share one checklist: every piece of their work handed to a named colleague before the last day, every system on your access register removed by its owner at a set time, and every item of equipment back. Nothing is removed or sent without a person.",
+      "path": "employee-offboarding-and-handover-checklist/",
+      "directory": "https://fullypowered.ai/capabilities/employee-offboarding-and-handover-checklist/"
+    },
+    {
       "id": "employee-onboarding-plan",
       "name": "Employee onboarding plan",
       "version": "0.1.0",
@@ -18,6 +26,14 @@
       "summary": "Every manager walks into a feedback conversation prepared like your best one: specific dated observations, the questions worth asking, a clear ask and the support on offer.",
       "path": "manager-feedback-preparation/",
       "directory": "https://fullypowered.ai/capabilities/manager-feedback-preparation/"
+    },
+    {
+      "id": "policy-answers-from-the-handbook",
+      "name": "Policy answers from the handbook",
+      "version": "0.1.0",
+      "summary": "Staff questions about leave, hours, expenses and conduct get answers that quote your own handbook, name the section, and say plainly where the handbook is silent. Anything about one person's own entitlement goes to HR, and no reply leaves until a person has read it.",
+      "path": "policy-answers-from-the-handbook/",
+      "directory": "https://fullypowered.ai/capabilities/policy-answers-from-the-handbook/"
     }
   ]
 }

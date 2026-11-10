@@ -1,0 +1,56 @@
+{
+  "id": "employee-offboarding-and-handover-checklist",
+  "name": "Employee offboarding and handover checklist",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When someone leaves, your HR lead and their manager share one checklist: every piece of their work handed to a named colleague before the last day, every system on your access register removed by its owner at a set time, and every item of equipment back. Nothing is removed or sent without a person.",
+  "directory": "https://fullypowered.ai/capabilities/employee-offboarding-and-handover-checklist/",
+  "primary_function": "functions/people-and-hr",
+  "functions": [
+    "functions/people-and-hr",
+    "functions/it-and-systems"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "employee-onboarding-plan",
+    "sop-exception-capture",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work, and the export form of this one: the company's access register and equipment list as the only authority, stated column headers with a stop when one does not match, a flag and a question for a named role for every gap, the reason for leaving and sign-in details kept out, and nothing removed, moved or sent until a person approves."
+    },
+    {
+      "kind": "third-party",
+      "repository": "panaversity/agentfactory-business-plugins",
+      "commit": "4497a99e149ffe2447eeaeed1d7706cd91c2edfb",
+      "path": "hr-operations/skills/offboard",
+      "licence": "Apache-2.0",
+      "contribution": "A written handover owned by the departing person and reviewed by the manager, completed early in the notice period; the topics it covers, including unwritten know-how; a recorded removal for every system; device return and wiping, mail forwarding and shared-account changes; separate HR, IT and manager steps with owners and dates; team told at an agreed time; gaps flagged for the manager; termination letters left to qualified people.",
+      "text_reused": false,
+      "notice": "notices/panaversity-agentfactory-business-plugins-LICENSE.txt"
+    }
+  ]
+}

@@ -2,12 +2,14 @@
 
 Every manager as prepared as your best one. These capability templates take the work of bringing people in and helping them grow, and give an AI assistant a precise way to prepare it. The manager and the people team make every decision about a person.
 
-This repository holds 2 capability templates for people teams and the managers they support. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 4 capability templates for people teams and the managers they support. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The capabilities
 
+- **[Employee offboarding and handover checklist](employee-offboarding-and-handover-checklist/)**: When someone leaves, your HR lead and their manager share one checklist: every piece of their work handed to a named colleague before the last day, every system on your access register removed by its owner at a set time, and every item of equipment back. Nothing is removed or sent without a person.
 - **[Employee onboarding plan](employee-onboarding-plan/)**: Every new colleague starts with a first week and a first 90 days planned to the standard of your best manager: what to read, who to meet, what to practice and what productive means at day 30, 60 and 90.
 - **[Manager feedback preparation](manager-feedback-preparation/)**: Every manager walks into a feedback conversation prepared like your best one: specific dated observations, the questions worth asking, a clear ask and the support on offer.
+- **[Policy answers from the handbook](policy-answers-from-the-handbook/)**: Staff questions about leave, hours, expenses and conduct get answers that quote your own handbook, name the section, and say plainly where the handbook is silent. Anything about one person's own entitlement goes to HR, and no reply leaves until a person has read it.
 
 ## How to use one
 
