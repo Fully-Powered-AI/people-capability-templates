@@ -1,0 +1,139 @@
+{
+  "id": "site-safety-induction-pack",
+  "name": "Site safety induction pack",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For one named site, the site, facilities or people lead gets an induction built from that site's own emergency arrangements, rules and hazards, with a short check of understanding, a sign-off record for each person and refresher dates by role. A competent person approves it and delivers it.",
+  "directory": "https://fullypowered.ai/capabilities/site-safety-induction-pack/",
+  "primary_function": "functions/people-and-hr",
+  "functions": [
+    "functions/people-and-hr",
+    "functions/health-safety-and-environment",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/logistics-and-trade",
+    "industries/construction",
+    "industries/hospitality"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "workplace-risk-assessment",
+    "contractor-safety-prequalification",
+    "employee-onboarding-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for this work: the hazard and people lists with stated column headers and a stop when one does not match; hazards matched to roles through the roles named against each; one question per subject and per hazard with an answer key that cites the site's document; walk-round places drawn from the documents and demonstrations set by the company; a pass rule with one re-explanation; old sources, contradicting documents and hazards held only by rules and protective equipment raised as points, with no control added; a refresher on return after time away; health details referred outside the pack; and no law or standard cited."
+    },
+    {
+      "kind": "third-party",
+      "repository": "ashley-eyekyam/hse-leadership-skills",
+      "commit": "2ffb2ca3287cf0954549fe00be9a127b5355eb94",
+      "path": "skills/induction-pack/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "A named site and its own hazards required before any pack is written; content, a signed record for each person and refreshers by role as the three parts; hazard controls ordered strongest first, with protective equipment never the unquestioned whole answer; names kept to the signed record and health details kept out; permits for contractors, inducted after prequalification.",
+      "text_reused": false,
+      "notice": "notices/ashley-eyekyam-hse-leadership-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "ashley-eyekyam/hse-leadership-skills",
+      "commit": "2ffb2ca3287cf0954549fe00be9a127b5355eb94",
+      "path": "skills/induction-pack/references/METHODOLOGY.md",
+      "licence": "Apache-2.0",
+      "contribution": "The five subjects every induction covers and what belongs in each; a subject the site cannot fill shown as a gap; how contractors and employees differ in what they need; riskier roles refreshed more often and after a change of rules or an incident.",
+      "text_reused": false,
+      "notice": "notices/ashley-eyekyam-hse-leadership-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "ashley-eyekyam/hse-leadership-skills",
+      "commit": "2ffb2ca3287cf0954549fe00be9a127b5355eb94",
+      "path": "skills/induction-pack/references/intake.md",
+      "licence": "Apache-2.0",
+      "contribution": "What to settle before drafting: who is being inducted, which site, which arrangements and hazards are available and where the hazards come from, with a date, how it is delivered, how understanding is checked, who owns it and how often it is repeated; nothing drafted until the site, its emergency arrangements and one hazard are known; the site documents that feed a pack.",
+      "text_reused": false,
+      "notice": "notices/ashley-eyekyam-hse-leadership-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "ashley-eyekyam/hse-leadership-skills",
+      "commit": "2ffb2ca3287cf0954549fe00be9a127b5355eb94",
+      "path": "skills/induction-pack/references/QUALITY_CHECKLIST.md",
+      "licence": "Apache-2.0",
+      "contribution": "The checks before a pack goes out: nothing generic, every subject tied to the site, controls ranked, a record for each person with the check method named, and every refresher owned and dated.",
+      "text_reused": false,
+      "notice": "notices/ashley-eyekyam-hse-leadership-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "ashley-eyekyam/hse-leadership-skills",
+      "commit": "2ffb2ca3287cf0954549fe00be9a127b5355eb94",
+      "path": "skills/induction-pack/references/sme-review.md",
+      "licence": "Apache-2.0",
+      "contribution": "The ways an induction quietly fails: a signature treated as proof of understanding, a subject listed without the detail a person needs, one pack for every group, and a refresher nobody owns.",
+      "text_reused": false,
+      "notice": "notices/ashley-eyekyam-hse-leadership-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "ashley-eyekyam/hse-leadership-skills",
+      "commit": "2ffb2ca3287cf0954549fe00be9a127b5355eb94",
+      "path": "skills/induction-pack/references/deid-checklist.md",
+      "licence": "Apache-2.0",
+      "contribution": "Personal and health details found and flagged before anything is drafted, and kept to the minimum the purpose needs; the same ideas are also stated in the package's main file and its review notes.",
+      "text_reused": false,
+      "notice": "notices/ashley-eyekyam-hse-leadership-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "ashley-eyekyam/hse-leadership-skills",
+      "commit": "2ffb2ca3287cf0954549fe00be9a127b5355eb94",
+      "path": "skills/induction-pack/evals/evals.json",
+      "licence": "Apache-2.0",
+      "contribution": "The hard cases of an induction meant for any site, a request to accept attendance alone, and a health detail in a copy that circulates, used here as acceptance tests in new scenarios.",
+      "text_reused": false,
+      "notice": "notices/ashley-eyekyam-hse-leadership-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "ashley-eyekyam/hse-leadership-skills",
+      "commit": "2ffb2ca3287cf0954549fe00be9a127b5355eb94",
+      "path": "skills/induction-pack/assets/induction-pack-report.template.json",
+      "licence": "Apache-2.0",
+      "contribution": "The order of the finished pack, from site and audience through content, hazards, the record for each person and refreshers to sign-off; refreshers counted from the induction date, and contractors refreshed at each job.",
+      "text_reused": false,
+      "notice": "notices/ashley-eyekyam-hse-leadership-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "ashley-eyekyam/hse-leadership-skills",
+      "commit": "2ffb2ca3287cf0954549fe00be9a127b5355eb94",
+      "path": "skills/induction-pack/evals/output/induction-pack.md",
+      "licence": "Apache-2.0",
+      "contribution": "The setting of its worked warehouse induction, a site where forklifts and pedestrians are kept apart by walkways, with an alarm and an assembly point in the car park, which the invented chilled-food depot in the example echoes; the depot, its cold store, dock, charging bay, plant room, contractor and people are new.",
+      "text_reused": false,
+      "notice": "notices/ashley-eyekyam-hse-leadership-skills-LICENSE.txt"
+    }
+  ]
+}

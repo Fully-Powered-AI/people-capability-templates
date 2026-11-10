@@ -20,6 +20,14 @@
       "directory": "https://fullypowered.ai/capabilities/departing-employee-knowledge-capture/"
     },
     {
+      "id": "employee-health-plan-comparison",
+      "name": "Employee health plan comparison",
+      "version": "0.1.0",
+      "summary": "For an owner or people lead at renewal: the broker's health plan options next to each other, with premiums split between company and employee, deductibles, out-of-pocket limits, network notes, the cost to the company and to a typical employee at low, middle and high use, and questions for the broker.",
+      "path": "employee-health-plan-comparison/",
+      "directory": "https://fullypowered.ai/capabilities/employee-health-plan-comparison/"
+    },
+    {
       "id": "employee-offboarding-and-handover-checklist",
       "name": "Employee offboarding and handover checklist",
       "version": "0.1.0",
@@ -66,6 +74,14 @@
       "summary": "Staff questions about leave, hours, expenses and conduct get answers that quote your own handbook, name the section, and say plainly where the handbook is silent. Anything about one person's own entitlement goes to HR, and no reply leaves until a person has read it.",
       "path": "policy-answers-from-the-handbook/",
       "directory": "https://fullypowered.ai/capabilities/policy-answers-from-the-handbook/"
+    },
+    {
+      "id": "site-safety-induction-pack",
+      "name": "Site safety induction pack",
+      "version": "0.1.0",
+      "summary": "For one named site, the site, facilities or people lead gets an induction built from that site's own emergency arrangements, rules and hazards, with a short check of understanding, a sign-off record for each person and refresher dates by role. A competent person approves it and delivers it.",
+      "path": "site-safety-induction-pack/",
+      "directory": "https://fullypowered.ai/capabilities/site-safety-induction-pack/"
     },
     {
       "id": "training-needs-analysis",

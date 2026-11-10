@@ -1,0 +1,59 @@
+{
+  "id": "employee-health-plan-comparison",
+  "name": "Employee health plan comparison",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For an owner or people lead at renewal: the broker's health plan options next to each other, with premiums split between company and employee, deductibles, out-of-pocket limits, network notes, the cost to the company and to a typical employee at low, middle and high use, and questions for the broker.",
+  "directory": "https://fullypowered.ai/capabilities/employee-health-plan-comparison/",
+  "primary_function": "functions/people-and-hr",
+  "functions": [
+    "functions/people-and-hr",
+    "functions/finance-and-accounting",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/construction",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "headcount-plan",
+    "business-insurance-renewal-review",
+    "vendor-quote-comparison"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work and the employer's form of this one: the preparer's lists as the only authority, stated column headers with a stop when one does not match, counts by tier and never names or health details, the company's cost against this year and the budget, a stated out-of-pocket formula, every gap written as a question for the broker or a point for the owner, no plan recommended, and nothing accepted, signed, sent or changed until a person decides."
+    },
+    {
+      "kind": "third-party",
+      "repository": "CaseMark/skills",
+      "commit": "afe48c44914d753297766404378e871d1f88d7a8",
+      "path": "skills/finance/analyzing-health-insurance-plans/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Weighing several health plans for an employer group from their summaries, tier premiums, networks and enrollment by tier; each plan's type and what members pay in and out of network; a member's year at three levels of use as premium plus care costs, less any company account money; attention to each plan's drug charges and drug list; premiums compared on one footing; renewal design changes; a lower price weighed against a smaller choice of doctors and hospitals; and a closing list of what is missing and what was assumed.",
+      "text_reused": false,
+      "notice": "notices/CaseMark-skills-LICENSE.txt"
+    }
+  ]
+}
