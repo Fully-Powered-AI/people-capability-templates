@@ -1,0 +1,98 @@
+{
+  "id": "internal-change-announcement",
+  "name": "Internal change announcement",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "One decided change, announced well: managers briefed first, a message for each group in the right order, talking points, and the questions people will ask, answered only from the decision or marked open. Every message is a draft that a person approves and sends.",
+  "directory": "https://fullypowered.ai/capabilities/internal-change-announcement/",
+  "primary_function": "functions/people-and-hr",
+  "functions": [
+    "functions/people-and-hr",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/logistics-and-trade",
+    "industries/manufacturing",
+    "industries/professional-services",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/acquisitions-and-integration",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "policy-answers-from-the-handbook",
+    "sop-from-how-the-work-is-done",
+    "meeting-agenda-notes-and-follow-ups"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work: the decision as written is the only authority, every fact numbered and cited, open questions sent back to the person who decided instead of answered, anything about one person's job, pay, hours or terms of employment held out for HR, and a person who approves and sends every message."
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "business-operations/skills/internal-comms/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Treating one internal change as a set of messages (the announcement, answers to expected questions, points for managers and a dated sequence); telling managers before their teams; naming the person who decided; fitting the tone to how hard the change lands; asking what is being left unsaid.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "business-operations/skills/internal-comms/references/announcement_anti_patterns.md",
+      "licence": "MIT",
+      "contribution": "The failures to look for before anything is sent: a decision with no one's name on it, wording that shrinks a big change or celebrates a loss, a big change delivered in writing alone, managers learning of it no earlier than the people they lead, and no follow-up once the change is live.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "business-operations/skills/internal-comms/scripts/change_announcement_builder.py",
+      "licence": "MIT",
+      "contribution": "Checking the wording against how hard the change lands, and rejecting celebratory phrases for a change that disrupts people's work. The template's phrase lists are its own.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "business-operations/skills/internal-comms/assets/comms_brief_template.md",
+      "licence": "MIT",
+      "contribution": "A short written brief as the starting point: what changes, what stays as it is, who decided, the effective date, the groups affected and what people should do next.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "business-operations/skills/internal-comms/scripts/comms_calendar_builder.py",
+      "licence": "MIT",
+      "contribution": "Putting each message on a date counted before or after the change, with someone responsible for it, and noticing when the briefing for managers or the follow-up is missing.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    }
+  ]
+}

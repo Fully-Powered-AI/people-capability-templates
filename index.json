@@ -4,6 +4,14 @@
   "term": "functions/people-and-hr",
   "capabilities": [
     {
+      "id": "departing-employee-knowledge-capture",
+      "name": "Departing-employee knowledge capture",
+      "version": "0.1.0",
+      "summary": "When someone is leaving or changing role, their manager gets an interview guide aimed at what only that person knows, then a handover document the successor can work from, every point traced to the conversations and marked with how sure it is. Nothing is shared until the manager approves.",
+      "path": "departing-employee-knowledge-capture/",
+      "directory": "https://fullypowered.ai/capabilities/departing-employee-knowledge-capture/"
+    },
+    {
       "id": "employee-offboarding-and-handover-checklist",
       "name": "Employee offboarding and handover checklist",
       "version": "0.1.0",
@@ -20,6 +28,14 @@
       "directory": "https://fullypowered.ai/capabilities/employee-onboarding-plan/"
     },
     {
+      "id": "internal-change-announcement",
+      "name": "Internal change announcement",
+      "version": "0.1.0",
+      "summary": "One decided change, announced well: managers briefed first, a message for each group in the right order, talking points, and the questions people will ask, answered only from the decision or marked open. Every message is a draft that a person approves and sends.",
+      "path": "internal-change-announcement/",
+      "directory": "https://fullypowered.ai/capabilities/internal-change-announcement/"
+    },
+    {
       "id": "manager-feedback-preparation",
       "name": "Manager feedback preparation",
       "version": "0.1.0",
@@ -34,6 +50,14 @@
       "summary": "Staff questions about leave, hours, expenses and conduct get answers that quote your own handbook, name the section, and say plainly where the handbook is silent. Anything about one person's own entitlement goes to HR, and no reply leaves until a person has read it.",
       "path": "policy-answers-from-the-handbook/",
       "directory": "https://fullypowered.ai/capabilities/policy-answers-from-the-handbook/"
+    },
+    {
+      "id": "training-needs-analysis",
+      "name": "Training needs analysis",
+      "version": "0.1.0",
+      "summary": "For one team, the HR lead or team manager gets what each role must be able to do, how many people can do it now, where the team falls short, and the training to arrange first, with who arranges it and by when. Counted by role, never a rating of a named person.",
+      "path": "training-needs-analysis/",
+      "directory": "https://fullypowered.ai/capabilities/training-needs-analysis/"
     }
   ]
 }

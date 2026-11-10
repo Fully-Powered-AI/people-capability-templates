@@ -1,0 +1,57 @@
+{
+  "id": "departing-employee-knowledge-capture",
+  "name": "Departing-employee knowledge capture",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When someone is leaving or changing role, their manager gets an interview guide aimed at what only that person knows, then a handover document the successor can work from, every point traced to the conversations and marked with how sure it is. Nothing is shared until the manager approves.",
+  "directory": "https://fullypowered.ai/capabilities/departing-employee-knowledge-capture/",
+  "primary_function": "functions/people-and-hr",
+  "functions": [
+    "functions/people-and-hr",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/manufacturing",
+    "industries/logistics-and-trade",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "employee-offboarding-and-handover-checklist",
+    "sop-exception-capture",
+    "sop-from-how-the-work-is-done"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work and the two-stage form of this one: the manager's area list as the only authority, stated column headers with a stop when one does not match, every point traced to a numbered note, every gap written as a question for the manager, personal matters kept out, and nothing booked, recorded, shared or assigned until a person decides."
+    },
+    {
+      "kind": "third-party",
+      "repository": "panaversity/agentfactory-business-plugins",
+      "commit": "4497a99e149ffe2447eeaeed1d7706cd91c2edfb",
+      "path": "hr-operations/skills/knowledge/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Weighing knowledge by who else holds it, how far it is written down and what depends on it; questions on relationships, process and the wider organization, including ideas tried before and dropped; the conversation treated as the company learning, never as an appraisal; never assuming someone else knows; the person's account checked against documents and colleagues; a write-up per area covering when it comes up, departures from the usual way, who else to ask, what is written and how far to trust it, marked unfinished until checked.",
+      "text_reused": false,
+      "notice": "notices/panaversity-agentfactory-business-plugins-LICENSE.txt"
+    }
+  ]
+}
