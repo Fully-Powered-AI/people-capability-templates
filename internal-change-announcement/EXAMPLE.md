@@ -1,6 +1,6 @@
 # Internal change announcement: an invented example
 
-*Illustrative example with invented data.* The companies, the people, the system, the dates and the amounts below are all invented. Tallowmere Supply is an invented 130-person building-supplies distributor with two depots. In August it bought Fenbrook Fixings, an invented 12-person supplier with one branch. Tallowmere's people and operations coordinator prepares the announcement of one change: Fenbrook's branch moves onto Tallowmere's ordering system. First come the inputs the coordinator supplied, in full, then the pack the capability returned.
+*Illustrative example with invented data.* The companies, the people, the system, the dates and the amounts below are all invented. Tallowmere Supply is an invented 130-person building-supplies distributor with two depots. In August it bought Fenbrook Fixings, an invented 12-person supplier with one branch. Tallowmere's people and operations coordinator prepares the announcement of one change: Fenbrook's branch moves onto Tallowmere's ordering system. First come the inputs the coordinator supplied, in full, then the pack the workflow template returned.
 
 ## The inputs
 

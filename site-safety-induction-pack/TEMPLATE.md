@@ -1,6 +1,6 @@
 # Site safety induction pack
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -13,9 +13,9 @@ Use it when people are about to start work at a site and need inducting: a new h
 Do not use it:
 
 - for several sites at once. "All our depots" gets one pack per site, each from that site's documents;
-- to find the hazards of a task or a place. That is the workplace risk assessment capability, whose findings this pack takes as input;
-- to plan a new colleague's first ninety days in the role. That is the employee onboarding plan capability;
-- to decide whether a contractor is safe to bring in. That is the contractor safety prequalification capability; the induction comes after that decision;
+- to find the hazards of a task or a place. That is the workplace risk assessment workflow template, whose findings this pack takes as input;
+- to plan a new colleague's first ninety days in the role. That is the employee onboarding plan workflow template;
+- to decide whether a contractor is safe to bring in. That is the contractor safety prequalification workflow template; the induction comes after that decision;
 - for a visitor briefing for people who will not work on site;
 - to say what the law requires of your company for inductions or training. That question goes to [your adviser].
 

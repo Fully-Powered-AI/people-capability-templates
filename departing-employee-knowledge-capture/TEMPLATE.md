@@ -1,6 +1,6 @@
 # Departing-employee knowledge capture
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it as soon as a departure or a move to another role is confirmed, while the 
 
 Do not use it:
 
-- for access, accounts, equipment or the formal hand-over of each piece of work to a receiver. Those belong to the offboarding and handover checklist, which this capability sits beside;
+- for access, accounts, equipment or the formal hand-over of each piece of work to a receiver. Those belong to the offboarding and handover checklist, which this workflow template sits beside;
 - to write the full exception register for one procedure. When the conversations show that one procedure is mostly exceptions, that is SOP exception capture;
 - for pay, benefits, references, the exit conversation, or any termination letter, severance offer or separation terms. Those stay with the HR lead's own process, with professional advice where the company needs it;
 - to judge the person's performance, the reason they are leaving or whether they could be rehired. The conversations are about the work, never about the person;

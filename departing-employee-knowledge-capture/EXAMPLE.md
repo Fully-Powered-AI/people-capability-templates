@@ -1,6 +1,6 @@
 # Departing-employee knowledge capture: an invented example
 
-*Illustrative example with invented data.* The company, the roles, the suppliers, the products, the documents and the dates below are all invented. The company is an invented 70-person specialty food distributor. Its purchasing lead in the buying team is leaving, and the operations director wants what she knows kept for the buyer who takes over. The capability runs twice. Stage one: the inputs the operations director supplied, in full, then the interview guide it returned. Stage two: the session notes, in full, then the handover document it returned.
+*Illustrative example with invented data.* The company, the roles, the suppliers, the products, the documents and the dates below are all invented. The company is an invented 70-person specialty food distributor. Its purchasing lead in the buying team is leaving, and the operations director wants what she knows kept for the buyer who takes over. The workflow template runs twice. Stage one: the inputs the operations director supplied, in full, then the interview guide it returned. Stage two: the session notes, in full, then the handover document it returned.
 
 ## Stage one: the inputs
 

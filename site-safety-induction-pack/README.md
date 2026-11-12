@@ -2,7 +2,7 @@
 
 For one named site, the site, facilities or people lead gets an induction built from that site's own emergency arrangements, rules and hazards, with a short check of understanding, a sign-off record for each person and refresher dates by role. A competent person approves it and delivers it.
 
-*Capability template · People and HR · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/site-safety-induction-pack/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/site-safety-induction-pack/)*
 
 ## The outcome
 
@@ -45,9 +45,9 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which keeps the signed records and makes sure nobody starts without an induction. [Employee onboarding plan](https://fullypowered.ai/capabilities/employee-onboarding-plan/) plans the first ninety days in the role; this covers the safety induction on day one.
-- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), where the competent person approves the content and runs the induction. [Workplace risk assessment](https://fullypowered.ai/capabilities/workplace-risk-assessment/) finds the hazards this pack teaches.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where site and facilities managers bring in people and contractors every month. [Contractor safety prequalification](https://fullypowered.ai/capabilities/contractor-safety-prequalification/) decides whether a contractor comes in at all; the induction follows.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which keeps the signed records and makes sure nobody starts without an induction. [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/) plans the first ninety days in the role; this covers the safety induction on day one.
+- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), where the competent person approves the content and runs the induction. [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/) finds the hazards this pack teaches.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where site and facilities managers bring in people and contractors every month. [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/) decides whether a contractor comes in at all; the induction follows.
 - [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where every plant has its own machines, alarms and no-go areas.
 - [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where agency workers start on short notice and forklifts share the floor with them.
 - [Construction](https://fullypowered.ai/industries/construction/), where each site has its own access routes, permits and assembly points.
@@ -68,9 +68,9 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. The record lists the points where the instructions were ambiguous and the edits made afterward, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. The record lists the points where the instructions were ambiguous and the edits made afterward, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a site your competent person knows well, plus hard cases written in advance, each with its expected result: a request for an induction for every site, an emergency plan that leaves out who takes the roll, a hazard controlled only by a sign, a risk assessment two years old, a people list with a renamed column, a health detail in the notes. The competent person checks every line against the site's documents before anyone relies on the pack. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a site your competent person knows well, plus hard cases written in advance, each with its expected result: a request for an induction for every site, an emergency plan that leaves out who takes the roll, a hazard controlled only by a sign, a risk assessment two years old, a people list with a renamed column, a health detail in the notes. The competent person checks every line against the site's documents before anyone relies on the pack. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -81,11 +81,11 @@ Testing in your environment means running it on a site your competent person kno
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -95,12 +95,12 @@ Testing in your environment means running it on a site your competent person kno
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Workplace risk assessment](https://fullypowered.ai/capabilities/workplace-risk-assessment/)
-- [Contractor safety prequalification](https://fullypowered.ai/capabilities/contractor-safety-prequalification/)
+- [Workplace risk assessment](https://fullypowered.ai/workflow templates/workplace-risk-assessment/)
+- [Contractor safety prequalification](https://fullypowered.ai/workflow templates/contractor-safety-prequalification/)
 - [Employee onboarding plan](../employee-onboarding-plan/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

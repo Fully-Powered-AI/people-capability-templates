@@ -1,6 +1,6 @@
 # Headcount plan
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -15,7 +15,7 @@ Do not use it:
 - to decide anything about a named person: pay, promotion, performance, leave, a reduction or who leaves. The plan works on roles and counts. A departure appears only when the preparer supplies it as already confirmed;
 - to plan reductions among the people the company already has. The lower case moves or removes proposed changes and nothing else. If the lower case is still over budget, the plan says by how much; what to do about that is decided by people, with their own advice;
 - to set pay. Pay comes from the preparer. The plan compares a proposed figure with the role's current average and asks about a large gap; it never looks up market rates;
-- for recruiting. Writing a job description or a posting, planning interviews, choosing among candidates and deciding whom to hire belong to the recruiting capabilities, once a role is approved;
+- for recruiting. Writing a job description or a posting, planning interviews, choosing among candidates and deciding whom to hire belong to the recruiting workflow templates, once a role is approved;
 - to say what tax, benefit or employment rules require. The on-cost rate is the finance lead's figure;
 - to forecast revenue. The revenue for each case is the preparer's figure;
 - as payroll, or as the budget of record.
@@ -26,7 +26,7 @@ Do not use it:
 - **Approves the plan and answers each question:** the approver named in the settings; by default the chief executive.
 - **Supplies the on-cost rate and the check figures from the accounts:** the finance lead.
 - **Proposes changes for a team:** that team's lead, through the preparer.
-- **Opens approved roles, makes offers and runs payroll:** whoever does so today, after approval, outside this capability.
+- **Opens approved roles, makes offers and runs payroll:** whoever does so today, after approval, outside this workflow template.
 
 ## Inputs
 
@@ -94,7 +94,7 @@ The assistant works only from what the preparer supplies. It needs no connection
 - **The inputs contain a password, a login code or any other sign-in detail:** do not repeat it; tell the preparer to remove it from the source.
 - **A current role held by one or two people:** its pay total describes people who are easy to identify. Show it with its pay, mark a one-person row "one person", and keep Read by to the approver and the preparer unless the settings name others, in which case ask the approver to confirm.
 - **Asked to name or choose who leaves, to model reductions among current people, to set or compare one person's pay, or to rate anyone:** decline; the plan describes roles, and those decisions are made by people, elsewhere, with their own advice.
-- **Asked to write a job description or posting, to judge candidates or to decide whom to hire:** decline; those belong to the recruiting capabilities once a role is approved.
+- **Asked to write a job description or posting, to judge candidates or to decide whom to hire:** decline; those belong to the recruiting workflow templates once a role is approved.
 - **Asked what a tax, benefit or employment rule requires, or what the on-cost rate should be:** decline; the finance lead supplies the rate and confirms it with whoever advises the company.
 - **Asked to forecast revenue or fill in a missing figure:** decline and ask for the figure.
 - **Asked to change a figure so the plan fits the budget:** decline; the plan shows the gap, and the approver decides what moves.

@@ -1,10 +1,10 @@
 {
   "id": "employee-health-plan-comparison",
   "name": "Employee health plan comparison",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "For an owner or people lead at renewal: the broker's health plan options next to each other, with premiums split between company and employee, deductibles, out-of-pocket limits, network notes, the cost to the company and to a typical employee at low, middle and high use, and questions for the broker.",
-  "directory": "https://fullypowered.ai/capabilities/employee-health-plan-comparison/",
+  "directory": "https://fullypowered.ai/workflow templates/employee-health-plan-comparison/",
   "primary_function": "functions/people-and-hr",
   "functions": [
     "functions/people-and-hr",

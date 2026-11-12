@@ -2,13 +2,13 @@
 
 Every new colleague starts with a first week and a first 90 days planned to the standard of your best manager: what to read, who to meet, what to practice and what productive means at day 30, 60 and 90.
 
-*Capability template · People and HR · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/employee-onboarding-plan/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)*
 
 ## The outcome
 
 A new colleague arrives on Monday and the plan is already there: the first week day by day, and a clear picture of productive at day 30, 60 and 90, written as work the colleague will be doing.
 
-Most companies have one manager who plans a start like this. This capability gives every hiring manager that standard, built from their own role and training material. The people lead sets it once and every start gets it. That is 10X what a small people team can do alone.
+Most companies have one manager who plans a start like this. This workflow template gives every hiring manager that standard, built from their own role and training material. The people lead sets it once and every start gets it. That is 10X what a small people team can do alone.
 
 The manager adapts the plan and judges progress. The new colleague shapes it in week one.
 
@@ -28,7 +28,7 @@ The hiring manager starts it once the start date is confirmed, ideally two weeks
 
 A draft plan in four parts: what to confirm before day one, the first week, milestones at day 30, 60 and 90, and the check-ins. Every gap goes to the manager by name, such as a responsibility with no training material or a guide past the team’s age limit.
 
-Access, equipment and invitations stay with the teams that own them. The capability never assesses the new colleague and never drafts an offer letter or other employment document.
+Access, equipment and invitations stay with the teams that own them. The workflow template never assesses the new colleague and never drafts an offer letter or other employment document.
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
@@ -44,15 +44,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Set the standard first: the check-in rhythm, the age limit for training material, the training every start completes and how productive is written for your roles. Training material usually covers the routine case; capture the exceptions experienced colleagues handle with [SOP exception capture](https://fullypowered.ai/capabilities/sop-exception-capture/).
+Set the standard first: the check-in rhythm, the age limit for training material, the training every start completes and how productive is written for your roles. Training material usually covers the routine case; capture the exceptions experienced colleagues handle with [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/).
 
 Map the handoffs to IT, facilities and the buddy so every confirmation has an owner. Prove it on one real start, then roll it out. Fully Powered works across ChatGPT, Claude, Copilot and Gemini, at your pace, and your company keeps control of how the work gets done.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on your roles and training material against cases written in advance, such as a responsibility with no training or an unconfirmed start date. The hiring manager and the people lead judge each draft against the expected behavior. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on your roles and training material against cases written in advance, such as a responsibility with no training or an unconfirmed start date. The hiring manager and the people lead judge each draft against the expected behavior. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -63,10 +63,10 @@ Testing in your environment means running it on your roles and training material
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -76,11 +76,11 @@ Testing in your environment means running it on your roles and training material
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Manager feedback preparation](../manager-feedback-preparation/)
-- [SOP exception capture](https://fullypowered.ai/capabilities/sop-exception-capture/)
+- [SOP exception capture](https://fullypowered.ai/workflow templates/sop-exception-capture/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

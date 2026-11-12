@@ -1,6 +1,6 @@
 # Policy answers from the handbook: an invented example
 
-*Illustrative example with invented data.* The company, its handbook, its memo, its staff and their questions are all invented. The company is an invented 140-person food wholesaler with a head office and a depot. Its office manager handles HR administration and answers staff questions; its HR manager decides anything the handbook does not settle. First come the inputs the office manager supplied, in full, then the answers the capability returned.
+*Illustrative example with invented data.* The company, its handbook, its memo, its staff and their questions are all invented. The company is an invented 140-person food wholesaler with a head office and a depot. Its office manager handles HR administration and answers staff questions; its HR manager decides anything the handbook does not settle. First come the inputs the office manager supplied, in full, then the answers the workflow template returned.
 
 ## The inputs
 

@@ -1,6 +1,6 @@
 # Internal change announcement
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -15,7 +15,7 @@ Do not use it:
 - for any announcement about one person's employment: a new starter, an appointment, a promotion, a departure, a retirement, a role change, discipline. HR prepares those;
 - for any change that removes or creates a position, moves anyone into a different role, or changes anyone's pay, benefits, hours or terms of employment, including redundancies and restructures that remove roles. HR leads those, with the advice it needs;
 - to decide whether the change is a good idea, or to settle the details the decision left open. Those go back to the person who decided;
-- to write or reword the policy itself. This capability announces wording that is already final;
+- to write or reword the policy itself. This workflow template announces wording that is already final;
 - for messages to customers, suppliers, investors or the press.
 
 ## Roles
@@ -27,7 +27,7 @@ Do not use it:
 
 ## Inputs
 
-1. **The change brief,** typed or pasted. It needs: the change in a sentence; why; what changes; what stays the same; who decided, with their role; the announcement date; the effective date. Useful as well: meetings or training already planned, with dates; who answers questions about what; anything not for this announcement; answers the decision owner has already approved; any draft wording from the decision owner. If the change, who decided, the announcement date or the effective date is missing, stop and ask. If the brief says the decision is not final, stop: this capability announces decided changes only.
+1. **The change brief,** typed or pasted. It needs: the change in a sentence; why; what changes; what stays the same; who decided, with their role; the announcement date; the effective date. Useful as well: meetings or training already planned, with dates; who answers questions about what; anything not for this announcement; answers the decision owner has already approved; any draft wording from the decision owner. If the change, who decided, the announcement date or the effective date is missing, stop and ask. If the brief says the decision is not final, stop: this workflow template announces decided changes only.
 2. **The audience list,** typed or exported, one row per group, with these default column headers: `audience`, `people`, `what_changes_for_them`, `size_of_change`, `told_by`, `channel`. `size_of_change` is routine, noticeable or major. `told_by` is the name and role of the person who sends that group's message. If the headers do not match these, stop and ask which column holds which before reading any row. If a row has no size, write "size not stated", treat it as major for the sequence, and add a check. If a row has no sender or channel, write "not stated" and add a check.
 3. **The company settings:** today's date; the working days of the week and the days the organization is closed; [your manager lead time], [your reminder lead time] and [your check-in delay]; the channel for the manager briefing; who approves the facts and who approves the wording; the HR contact. If some or all are missing, use the defaults in the procedure and say in the header which were defaulted.
 

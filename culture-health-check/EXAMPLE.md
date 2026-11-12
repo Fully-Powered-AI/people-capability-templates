@@ -1,6 +1,6 @@
 # Culture health check: an invented example
 
-*Illustrative example with invented data.* The company, the people, the client, the survey and every figure below are invented. Harrowfinch Studio is an invented 64-person design and web agency with four teams. Its people lead runs a culture health check after the October staff survey, for the studio's two founders. First come the inputs the people lead supplied, in full, then the check the capability returned.
+*Illustrative example with invented data.* The company, the people, the client, the survey and every figure below are invented. Harrowfinch Studio is an invented 64-person design and web agency with four teams. Its people lead runs a culture health check after the October staff survey, for the studio's two founders. First come the inputs the people lead supplied, in full, then the check the workflow template returned.
 
 ## The inputs
 

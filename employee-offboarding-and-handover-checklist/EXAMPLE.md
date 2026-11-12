@@ -1,6 +1,6 @@
 # Employee offboarding and handover checklist: an invented example
 
-*Illustrative example with invented data.* The company, the roles, the systems, the project, the equipment and the dates below are all invented. The company is an invented 80-person management consultancy. Its senior project coordinator in the delivery team has resigned. First come the inputs the HR lead and the head of delivery supplied, in full, then the checklist the capability returned.
+*Illustrative example with invented data.* The company, the roles, the systems, the project, the equipment and the dates below are all invented. The company is an invented 80-person management consultancy. Its senior project coordinator in the delivery team has resigned. First come the inputs the HR lead and the head of delivery supplied, in full, then the checklist the workflow template returned.
 
 ## The inputs
 

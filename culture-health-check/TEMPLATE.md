@@ -1,6 +1,6 @@
 # Culture health check
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -15,9 +15,9 @@ Do not use it:
 - to judge, rank or compare named people, to say whether one person fits the culture, or to work out who gave a survey answer. Results are by team and theme only;
 - for hiring choices, performance ratings, discipline or any decision about one person's employment. The manager and HR own those;
 - to look into a complaint, a grievance or the conduct of a named person. HR handles those through its own process, with the advice it needs;
-- to announce a change once leadership has decided it. The internal change announcement capability prepares that;
-- to prepare one manager's feedback conversation with one person. The manager feedback preparation capability does that;
-- to write the company's values, mission or culture document from scratch. This capability reads the values the company already states.
+- to announce a change once leadership has decided it. The internal change announcement workflow template prepares that;
+- to prepare one manager's feedback conversation with one person. The manager feedback preparation workflow template does that;
+- to write the company's values, mission or culture document from scratch. This workflow template reads the values the company already states.
 
 ## Roles
 

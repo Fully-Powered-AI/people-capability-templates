@@ -1,6 +1,6 @@
 # Employee onboarding plan
 
-Capability template 0.1.0 · People and HR · Fully Powered AI
+Workflow template 0.1.0 · People and HR · Fully Powered AI
 
 ## Purpose
 

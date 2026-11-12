@@ -1,6 +1,6 @@
 # Employee health plan comparison
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -17,14 +17,14 @@ Do not use it:
 - to judge whether a plan meets any legal or tax rule, such as rules on what an employer must offer, on what counts as affordable, or on accounts that carry tax treatment. The broker and the company's advisers answer those;
 - to price a self-funded plan, stop-loss cover or a plan's actuarial value. Those need the broker's own analysis;
 - to choose a plan or set the company's contribution. The comparison shows the cost of each choice; the owner decides with the broker's advice;
-- for the company's own business insurance, or for next year's whole people budget. Other capabilities cover those.
+- for the company's own business insurance, or for next year's whole people budget. Other workflow templates cover those.
 
 ## Roles
 
 - **Prepares the comparison and supplies the inputs:** the people lead, office manager or finance lead; in a small company, the owner.
 - **Supplies the plan documents, quotes and answers:** the broker.
 - **Decides the plans offered and the company's contribution, and answers each point:** the approver named in the settings; by default the owner.
-- **Accepts the quote, signs the application, runs enrollment and changes payroll deductions:** whoever does so today, after the decision, outside this capability.
+- **Accepts the quote, signs the application, runs enrollment and changes payroll deductions:** whoever does so today, after the decision, outside this workflow template.
 
 ## Inputs
 

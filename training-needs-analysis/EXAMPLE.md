@@ -1,6 +1,6 @@
 # Training needs analysis: an invented example
 
-*Illustrative example with invented data.* The company, the people, the roles, the figures, the prices and the dates below are all invented. The company is an invented 48-person appliance repair business. Its service manager runs a team of service coordinators, field technicians and parts clerks, and a new scheduling and dispatch system goes live in February. First come the inputs the service manager supplied, in full, then the analysis the capability returned for the HR lead.
+*Illustrative example with invented data.* The company, the people, the roles, the figures, the prices and the dates below are all invented. The company is an invented 48-person appliance repair business. Its service manager runs a team of service coordinators, field technicians and parts clerks, and a new scheduling and dispatch system goes live in February. First come the inputs the service manager supplied, in full, then the analysis the workflow template returned for the HR lead.
 
 ## The inputs
 

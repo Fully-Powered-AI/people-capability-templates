@@ -2,7 +2,7 @@
 
 For a founder, people lead or finance lead preparing next year: every role and its cost by team, the new roles and backfills with their months, the fully loaded cost month by month against the budget, and what changes if revenue lands lower or higher. It plans roles and money, never decisions about named people.
 
-*Capability template · People and HR · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/headcount-plan/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/headcount-plan/)*
 
 ## The outcome
 
@@ -46,13 +46,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Settle the cost rates with your finance lead: the rate for employer taxes, benefits and pension, whether it applies to bonuses, what the per-person monthly cost covers and whether contractors carry it. Decide what "lower" and "higher" revenue mean for you and which changes each team lead may mark as able to wait. Set how far a new role's pay may sit from the role's current average before the plan asks about it, and how close the plan must come to last month's accounts. Choose who approves and who may read the plan, since a role held by one person shows that person's pay. Once a role is approved, the [job description](https://fullypowered.ai/capabilities/job-description/) capability takes it forward; the [budget-versus-actual variance commentary](https://fullypowered.ai/capabilities/budget-versus-actual-variance-commentary/) follows the plan through the year. It runs in ChatGPT, Claude, Copilot or Gemini from the lists and notes you supply, with no connection to payroll or your accounts.
+Settle the cost rates with your finance lead: the rate for employer taxes, benefits and pension, whether it applies to bonuses, what the per-person monthly cost covers and whether contractors carry it. Decide what "lower" and "higher" revenue mean for you and which changes each team lead may mark as able to wait. Set how far a new role's pay may sit from the role's current average before the plan asks about it, and how close the plan must come to last month's accounts. Choose who approves and who may read the plan, since a role held by one person shows that person's pay. Once a role is approved, the [job description](https://fullypowered.ai/workflows/job-description/) workflow template takes it forward; the [budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/) follows the plan through the year. It runs in ChatGPT, Claude, Copilot or Gemini from the lists and notes you supply, with no connection to payroll or your accounts.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on last year's plan, which your finance lead already knows, plus hard cases written in advance, each with its expected behavior: a backfill that overlaps the departure, a missing cost rate, a renamed column, a lower case that is still over budget, a request to say who should leave. The finance lead checks every figure against payroll and the accounts before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on last year's plan, which your finance lead already knows, plus hard cases written in advance, each with its expected behavior: a backfill that overlaps the departure, a missing cost rate, a renamed column, a lower case that is still over budget, a request to say who should leave. The finance lead checks every figure against payroll and the accounts before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -63,11 +63,11 @@ Testing in your environment means running it on last year's plan, which your fin
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -77,12 +77,12 @@ Testing in your environment means running it on last year's plan, which your fin
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/capabilities/budget-versus-actual-variance-commentary/)
-- [Thirteen-week cash flow forecast](https://fullypowered.ai/capabilities/thirteen-week-cash-flow-forecast/)
-- [Job description](https://fullypowered.ai/capabilities/job-description/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
+- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflow templates/thirteen-week-cash-flow-forecast/)
+- [Job description](https://fullypowered.ai/workflow templates/job-description/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

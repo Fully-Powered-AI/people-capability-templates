@@ -1,6 +1,6 @@
 # Headcount plan: an invented example
 
-*Illustrative example with invented data.* The company, the people, the roles, the pay, the budget, the revenue and the dates below are all invented. Company A is an invented 16-person software company preparing its plan for 2027 before the board's budget meeting in December. Its finance and people lead prepares the plan for the chief executive. First come the inputs the finance and people lead supplied, in full, then the plan the capability returned.
+*Illustrative example with invented data.* The company, the people, the roles, the pay, the budget, the revenue and the dates below are all invented. Company A is an invented 16-person software company preparing its plan for 2027 before the board's budget meeting in December. Its finance and people lead prepares the plan for the chief executive. First come the inputs the finance and people lead supplied, in full, then the plan the workflow template returned.
 
 ## The inputs
 

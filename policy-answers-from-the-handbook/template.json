@@ -1,10 +1,10 @@
 {
   "id": "policy-answers-from-the-handbook",
   "name": "Policy answers from the handbook",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Staff questions about leave, hours, expenses and conduct get answers that quote your own handbook, name the section, and say plainly where the handbook is silent. Anything about one person's own entitlement goes to HR, and no reply leaves until a person has read it.",
-  "directory": "https://fullypowered.ai/capabilities/policy-answers-from-the-handbook/",
+  "directory": "https://fullypowered.ai/workflow templates/policy-answers-from-the-handbook/",
   "primary_function": "functions/people-and-hr",
   "functions": [
     "functions/people-and-hr",
