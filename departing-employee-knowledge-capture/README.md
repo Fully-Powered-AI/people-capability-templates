@@ -2,7 +2,7 @@
 
 When someone is leaving or changing role, their manager gets an interview guide aimed at what only that person knows, then a handover document the successor can work from, every point traced to the conversations and marked with how sure it is. Nothing is shared until the manager approves.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/departing-employee-knowledge-capture/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/)*
 
 ## The outcome
 
@@ -78,8 +78,8 @@ Testing in your environment means running it on a past departure your manager re
 ## Related workflow templates
 
 - [Employee offboarding and handover checklist](../employee-offboarding-and-handover-checklist/)
-- [SOP exception capture](https://fullypowered.ai/workflow templates/sop-exception-capture/)
-- [Write an SOP from how the work is done](https://fullypowered.ai/workflow templates/sop-from-how-the-work-is-done/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)
 
 ## Make it yours
 

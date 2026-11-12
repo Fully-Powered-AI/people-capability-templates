@@ -2,7 +2,7 @@
 
 For a founder, people lead or finance lead preparing next year: every role and its cost by team, the new roles and backfills with their months, the fully loaded cost month by month against the budget, and what changes if revenue lands lower or higher. It plans roles and money, never decisions about named people.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/headcount-plan/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/headcount-plan/)*
 
 ## The outcome
 
@@ -79,9 +79,9 @@ Testing in your environment means running it on last year's plan, which your fin
 
 ## Related workflow templates
 
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
-- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflow templates/thirteen-week-cash-flow-forecast/)
-- [Job description](https://fullypowered.ai/workflow templates/job-description/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
+- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/)
+- [Job description](https://fullypowered.ai/workflows/job-description/)
 
 ## Make it yours
 

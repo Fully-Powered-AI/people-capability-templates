@@ -2,7 +2,7 @@
 
 Staff questions about leave, hours, expenses and conduct get answers that quote your own handbook, name the section, and say plainly where the handbook is silent. Anything about one person's own entitlement goes to HR, and no reply leaves until a person has read it.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/policy-answers-from-the-handbook/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/policy-answers-from-the-handbook/)*
 
 ## The outcome
 
@@ -77,7 +77,7 @@ Testing in your environment means running it on a few weeks of past questions yo
 
 - [Employee onboarding plan](../employee-onboarding-plan/)
 - [Manager feedback preparation](../manager-feedback-preparation/)
-- [Customer reply drafting](https://fullypowered.ai/workflow templates/customer-reply-drafting/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
 
 ## Make it yours
 

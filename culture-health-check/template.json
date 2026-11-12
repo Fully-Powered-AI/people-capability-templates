@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A founder or people lead sees whether the company's stated values show up in daily work: each value written as behaviours you could watch for, read against the team's own evidence, with where practice matches, where it drifts, and two or three rituals to try. Reported by team and theme, never about a person.",
-  "directory": "https://fullypowered.ai/workflow templates/culture-health-check/",
+  "directory": "https://fullypowered.ai/workflows/culture-health-check/",
   "primary_function": "functions/people-and-hr",
   "functions": [
     "functions/people-and-hr",

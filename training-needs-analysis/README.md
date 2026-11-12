@@ -2,7 +2,7 @@
 
 For one team, the HR lead or team manager gets what each role must be able to do, how many people can do it now, where the team falls short, and the training to arrange first, with who arranges it and by when. Counted by role, never a rating of a named person.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/training-needs-analysis/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/training-needs-analysis/)*
 
 ## The outcome
 

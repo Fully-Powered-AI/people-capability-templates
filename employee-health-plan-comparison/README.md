@@ -2,7 +2,7 @@
 
 For an owner or people lead at renewal: the broker's health plan options next to each other, with premiums split between company and employee, deductibles, out-of-pocket limits, network notes, the cost to the company and to a typical employee at low, middle and high use, and questions for the broker.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/employee-health-plan-comparison/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/employee-health-plan-comparison/)*
 
 ## The outcome
 
@@ -80,8 +80,8 @@ Testing in your environment means running it on last year's renewal, which your 
 ## Related workflow templates
 
 - [Headcount plan](../headcount-plan/)
-- [Business insurance renewal review](https://fullypowered.ai/workflow templates/business-insurance-renewal-review/)
-- [Vendor quote comparison](https://fullypowered.ai/workflow templates/vendor-quote-comparison/)
+- [Business insurance renewal review](https://fullypowered.ai/workflows/business-insurance-renewal-review/)
+- [Vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/)
 
 ## Make it yours
 

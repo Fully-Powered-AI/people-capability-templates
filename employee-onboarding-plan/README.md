@@ -2,7 +2,7 @@
 
 Every new colleague starts with a first week and a first 90 days planned to the standard of your best manager: what to read, who to meet, what to practice and what productive means at day 30, 60 and 90.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/employee-onboarding-plan/)*
 
 ## The outcome
 
@@ -79,7 +79,7 @@ Testing in your environment means running it on your roles and training material
 ## Related workflow templates
 
 - [Manager feedback preparation](../manager-feedback-preparation/)
-- [SOP exception capture](https://fullypowered.ai/workflow templates/sop-exception-capture/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
 
 ## Make it yours
 

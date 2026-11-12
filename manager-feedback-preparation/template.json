@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Every manager walks into a feedback conversation prepared like your best one: specific dated observations, the questions worth asking, a clear ask and the support on offer.",
-  "directory": "https://fullypowered.ai/workflow templates/manager-feedback-preparation/",
+  "directory": "https://fullypowered.ai/workflows/manager-feedback-preparation/",
   "primary_function": "functions/people-and-hr",
   "functions": [
     "functions/people-and-hr",

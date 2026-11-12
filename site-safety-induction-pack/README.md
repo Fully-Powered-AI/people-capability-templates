@@ -2,7 +2,7 @@
 
 For one named site, the site, facilities or people lead gets an induction built from that site's own emergency arrangements, rules and hazards, with a short check of understanding, a sign-off record for each person and refresher dates by role. A competent person approves it and delivers it.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/site-safety-induction-pack/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/site-safety-induction-pack/)*
 
 ## The outcome
 
@@ -97,8 +97,8 @@ Testing in your environment means running it on a site your competent person kno
 
 ## Related workflow templates
 
-- [Workplace risk assessment](https://fullypowered.ai/workflow templates/workplace-risk-assessment/)
-- [Contractor safety prequalification](https://fullypowered.ai/workflow templates/contractor-safety-prequalification/)
+- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/)
+- [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/)
 - [Employee onboarding plan](../employee-onboarding-plan/)
 
 ## Make it yours

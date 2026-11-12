@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When someone is leaving or changing role, their manager gets an interview guide aimed at what only that person knows, then a handover document the successor can work from, every point traced to the conversations and marked with how sure it is. Nothing is shared until the manager approves.",
-  "directory": "https://fullypowered.ai/workflow templates/departing-employee-knowledge-capture/",
+  "directory": "https://fullypowered.ai/workflows/departing-employee-knowledge-capture/",
   "primary_function": "functions/people-and-hr",
   "functions": [
     "functions/people-and-hr",

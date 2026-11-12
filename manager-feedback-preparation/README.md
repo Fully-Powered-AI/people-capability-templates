@@ -2,7 +2,7 @@
 
 Every manager walks into a feedback conversation prepared like your best one: specific dated observations, the questions worth asking, a clear ask and the support on offer.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/manager-feedback-preparation/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/manager-feedback-preparation/)*
 
 ## The outcome
 
@@ -76,7 +76,7 @@ Testing in your environment means running it on real preparations against cases 
 ## Related workflow templates
 
 - [Employee onboarding plan](../employee-onboarding-plan/)
-- [SOP exception capture](https://fullypowered.ai/workflow templates/sop-exception-capture/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
 
 ## Make it yours
 

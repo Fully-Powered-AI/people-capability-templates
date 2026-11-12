@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "For one named site, the site, facilities or people lead gets an induction built from that site's own emergency arrangements, rules and hazards, with a short check of understanding, a sign-off record for each person and refresher dates by role. A competent person approves it and delivers it.",
-  "directory": "https://fullypowered.ai/workflow templates/site-safety-induction-pack/",
+  "directory": "https://fullypowered.ai/workflows/site-safety-induction-pack/",
   "primary_function": "functions/people-and-hr",
   "functions": [
     "functions/people-and-hr",

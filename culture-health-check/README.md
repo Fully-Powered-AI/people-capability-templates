@@ -2,7 +2,7 @@
 
 A founder or people lead sees whether the company's stated values show up in daily work: each value written as behaviours you could watch for, read against the team's own evidence, with where practice matches, where it drifts, and two or three rituals to try. Reported by team and theme, never about a person.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/culture-health-check/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/culture-health-check/)*
 
 ## The outcome
 

@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When someone leaves, your HR lead and their manager share one checklist: every piece of their work handed to a named colleague before the last day, every system on your access register removed by its owner at a set time, and every item of equipment back. Nothing is removed or sent without a person.",
-  "directory": "https://fullypowered.ai/workflow templates/employee-offboarding-and-handover-checklist/",
+  "directory": "https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/",
   "primary_function": "functions/people-and-hr",
   "functions": [
     "functions/people-and-hr",

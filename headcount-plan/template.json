@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "For a founder, people lead or finance lead preparing next year: every role and its cost by team, the new roles and backfills with their months, the fully loaded cost month by month against the budget, and what changes if revenue lands lower or higher. It plans roles and money, never decisions about named people.",
-  "directory": "https://fullypowered.ai/workflow templates/headcount-plan/",
+  "directory": "https://fullypowered.ai/workflows/headcount-plan/",
   "primary_function": "functions/people-and-hr",
   "functions": [
     "functions/people-and-hr",

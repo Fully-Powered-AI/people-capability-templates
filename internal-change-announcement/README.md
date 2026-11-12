@@ -2,7 +2,7 @@
 
 One decided change, announced well: managers briefed first, a message for each group in the right order, talking points, and the questions people will ask, answered only from the decision or marked open. Every message is a draft that a person approves and sends.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/internal-change-announcement/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/internal-change-announcement/)*
 
 ## The outcome
 
@@ -87,8 +87,8 @@ Testing in your environment means running it on two or three past changes your t
 ## Related workflow templates
 
 - [Policy answers from the handbook](../policy-answers-from-the-handbook/)
-- [Write an SOP from how the work is done](https://fullypowered.ai/workflow templates/sop-from-how-the-work-is-done/)
-- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflow templates/meeting-agenda-notes-and-follow-ups/)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)
+- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 When someone leaves, your HR lead and their manager share one checklist: every piece of their work handed to a named colleague before the last day, every system on your access register removed by its owner at a set time, and every item of equipment back. Nothing is removed or sent without a person.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/employee-offboarding-and-handover-checklist/)*
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/)*
 
 ## The outcome
 
@@ -78,8 +78,8 @@ Testing in your environment means running it on two or three past departures you
 ## Related workflow templates
 
 - [Employee onboarding plan](../employee-onboarding-plan/)
-- [SOP exception capture](https://fullypowered.ai/workflow templates/sop-exception-capture/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 
