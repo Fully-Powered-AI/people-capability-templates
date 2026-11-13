@@ -44,6 +44,14 @@
       "directory": "https://fullypowered.ai/workflows/employee-onboarding-plan/"
     },
     {
+      "id": "exit-interview-themes-summary",
+      "name": "Exit interview themes summary",
+      "version": "0.1.0",
+      "summary": "Each quarter or half-year, your HR lead sees what leavers said on the way out: themes with counts, unattributed quotes with identifying detail removed, set beside the reasons recorded at the time, and questions for leadership. Small groups are combined or withheld by a stated rule. It decides nothing about any person.",
+      "path": "exit-interview-themes-summary/",
+      "directory": "https://fullypowered.ai/workflows/exit-interview-themes-summary/"
+    },
+    {
       "id": "headcount-plan",
       "name": "Headcount plan",
       "version": "0.1.0",

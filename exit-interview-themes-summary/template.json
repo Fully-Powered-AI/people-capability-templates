@@ -1,0 +1,48 @@
+{
+  "id": "exit-interview-themes-summary",
+  "name": "Exit interview themes summary",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Each quarter or half-year, your HR lead sees what leavers said on the way out: themes with counts, unattributed quotes with identifying detail removed, set beside the reasons recorded at the time, and questions for leadership. Small groups are combined or withheld by a stated rule. It decides nothing about any person.",
+  "directory": "https://fullypowered.ai/workflows/exit-interview-themes-summary/",
+  "primary_function": "functions/people-and-hr",
+  "functions": [
+    "functions/people-and-hr",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/hospitality",
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "employee-offboarding-and-handover-checklist",
+    "departing-employee-knowledge-capture",
+    "culture-health-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-12",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-12",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own method for summarising exit interviews: the company's leaver list, notes and forms as the only evidence, stated column headers with a stop when one does not match, themes counted by leaver beside the reasons recorded at the time, a fixed anonymity rule for groups, themes and quotes, matters for HR's own process set aside, and nothing decided about any person."
+    }
+  ]
+}
